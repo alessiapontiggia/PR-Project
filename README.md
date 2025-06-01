@@ -8,12 +8,12 @@ The .pddl files refers to the PDDL implementation and includes:
 - **problem_mid.pddl**: mid task definition 🥈
 - **problem_diff.pddl**: difficult task definition 🥇
 
-To make them run, **ensure** having installed [enhsp-20.jar](https://drive.google.com/file/d/1GfVLQNEgeeNnNeI6HkrCtAUrrSzdSW8g/view?usp=sharing), then run:
+To make them run, **ensure** having installed [enhsp-20.jar](https://drive.google.com/file/d/1GfVLQNEgeeNnNeI6HkrCtAUrrSzdSW8g/view?usp=sharing), then run, where the jar is, the following:
 
 ```
 java -jar enhsp-20.jar -o [code_path]/domain.pddl -f [code_path]/problem_[type].pddl -s WAStar -h h_[h_type]
 ```
-Change ```[code_path]``` with the actual location of the files and ```[h_type]``` with ```ff, max, add```.
+Change ```[code_path]``` with the actual folder location containing the files and ```[h_type]``` with ```ff, max, add```.
 
 
 The .pl files refers to the Situation Calculus implementation and includes:
