@@ -23,3 +23,4 @@ The .pl files refers to the Situation Calculus implementation and includes:
 - **astar_controller.pl**: difficult task definition
 - **run_all_tasks.pl**: to run the above
 
+To make them run, **ensure** having installed **Indigolog** in '''"C:/Prolog/indigolog/interpreters"'''
