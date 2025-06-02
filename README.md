@@ -13,7 +13,7 @@ To make them run, **ensure** having installed [enhsp-20.jar](https://drive.googl
 ```
 java -jar enhsp-20.jar -o [code_path]/domain.pddl -f [code_path]/problem_[type].pddl -s WAStar -h h_[h_type]
 ```
-Change ```[code_path]``` with the actual folder location containing the files and ```[h_type]``` with ```ff, max, add```.
+Change ```[code_path]``` with the actual folder location containing the files and ```[h_type]``` with ```h_ff, h_max, h_add```.
 
 
 The .pl files refers to the Situation Calculus implementation and includes:
