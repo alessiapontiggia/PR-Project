@@ -1,6 +1,6 @@
 # PR-Project
 
-This repository contains all code files regardin the Planning and Reasoning Course 24/25 held by Prof. Marrella.
+This repository contains all code files regarding the Planning and Reasoning Course 24/25 held by Prof. Marrella, at Sapienza University of Rome.
 
 The .pddl files refers to the PDDL implementation and includes:
 - **domain.pddl**: domain definition 💻
