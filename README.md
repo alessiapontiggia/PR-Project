@@ -29,3 +29,5 @@ To make them run, **ensure** having installed **Indigolog** in ```"C:/Prolog/ind
 ?- consult(run_all_tasks).
 ?- run.
 ```
+
+Slides are available at: [presentaation](https://docs.google.com/presentation/d/1-YsFutx2Lu4C9zxV6rO6LozXdguvjLCF/edit?usp=sharing&ouid=117938714131893784790&rtpof=true&sd=true)
